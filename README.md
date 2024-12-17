@@ -1,5 +1,5 @@
-# A website for Dapeng Li's CV
-Thi project hosts Dapeng's CV
+# A website for Hemal Dey's CV
+Thi project hosts Hemal's CV
 
 ## Getting Started
 
