@@ -1,5 +1,5 @@
 # A website for Hemal Dey's CV
-Thi project hosts Hemal's CV
+This project hosts Hemal's CV. Here, all the updates of Hemal Dey's research will be available. 
 
 ## Getting Started
 
